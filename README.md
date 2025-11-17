@@ -38,7 +38,7 @@ UISeleniumDemo/
 - Chrome browser
 
 ### 2. Install NuGet packages
-
+```
 dotnet add package Selenium.WebDriver
 dotnet add package Selenium.WebDriver.ChromeDriver
 dotnet add package Selenium.Support
@@ -46,7 +46,7 @@ dotnet add package DotNetSeleniumExtras.WaitHelpers
 dotnet add package NUnit
 dotnet add package NUnit3TestAdapter
 dotnet add package FluentAssertions
-
+```
 
 ---
 
